@@ -37,6 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   get: ^4.6.6
   flutter_native_splash: ^2.3.10
+  material_design_icons_flutter: ^7.0.7296
 
 dev_dependencies:
   flutter_test:
@@ -62,7 +63,7 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-   - images/group-10.png
+
    - images/group-12-fTB.png
    - images/fi-user-MLR.png
    - images/image-MGy.png
@@ -77,7 +78,10 @@ flutter:
    - images/frame-2089-Xt1.png
    - images/frame-2095-foK.png
    - images/frame-2095-gSq.png
-
+   - images/fi-heart-7t9.png
+   - images/fi-clock-42H.png
+   - images/fi-home-hed.png
+   - images/fi-shopping-cart-uth.png
 
      # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
